@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cristian-Pantea/goit-react-hw-04-phonebook/static/css/main.1c8bfae4.css",
+    "main.js": "/Cristian-Pantea/goit-react-hw-04-phonebook/static/js/main.847a78ed.js",
+    "index.html": "/Cristian-Pantea/goit-react-hw-04-phonebook/index.html",
+    "main.1c8bfae4.css.map": "/Cristian-Pantea/goit-react-hw-04-phonebook/static/css/main.1c8bfae4.css.map",
+    "main.847a78ed.js.map": "/Cristian-Pantea/goit-react-hw-04-phonebook/static/js/main.847a78ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c8bfae4.css",
+    "static/js/main.847a78ed.js"
+  ]
+}
